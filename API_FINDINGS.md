@@ -1,6 +1,6 @@
 # API Findings: JSONPlaceholder
 
-Testers (pair): \<farisha>, \<hakim>  
+Testers (pair): \<farisha>, \<hakim>, \<dani>  
 Date: 26 October 2026
 
 Record what the server actually returned for each route. A value copied from the documentation without being checked against a real request is not a finding.
